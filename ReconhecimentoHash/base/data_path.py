@@ -5,3 +5,4 @@ class FilePath(Enum):
     RAW_DATA = 'base\\haw\\rockyou.txt'
     # Você pode adicionar outros caminhos de arquivo conforme necessário, por exemplo:
     # SHA1_HASH = 'base\\sha1\\sha1h.txt'
+    
